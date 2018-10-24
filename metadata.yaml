@@ -1,0 +1,25 @@
+_repo: Kolme-tyttoa-tuntureilla_57997
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zwilgmeyer, Dikken
+    aliases:
+    - Zwilgmeyer, Henriette
+    - Johanne, Inger
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '35879'
+    url: http://www.gutenberg.org/2009/agents/35879
+description: ''
+gutenberg_issued: '2018-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57997'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kolme tyttöä tuntureilla
+url: http://www.gutenberg.org/ebooks/57997
